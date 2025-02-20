@@ -4,7 +4,6 @@
 # But do not ignore the .gitignore file itself
 !.gitignore
 
-# If you need to keep other files/folders (like README.md, LICENSE, etc.), add them like this:
 !README.md
 !LICENSE
 
